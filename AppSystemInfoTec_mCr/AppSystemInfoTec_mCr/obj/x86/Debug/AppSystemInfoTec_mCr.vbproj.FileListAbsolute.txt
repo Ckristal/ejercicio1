@@ -1,0 +1,8 @@
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_mCr\AppSystemInfoTec_mCr\bin\Debug\AppSystemInfoTec_mCr.exe
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_mCr\AppSystemInfoTec_mCr\bin\Debug\AppSystemInfoTec_mCr.pdb
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_mCr\AppSystemInfoTec_mCr\bin\Debug\AppSystemInfoTec_mCr.xml
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_mCr\AppSystemInfoTec_mCr\obj\x86\Debug\AppSystemInfoTec_mCr.Resources.resources
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_mCr\AppSystemInfoTec_mCr\obj\x86\Debug\AppSystemInfoTec_mCr.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_mCr\AppSystemInfoTec_mCr\obj\x86\Debug\AppSystemInfoTec_mCr.exe
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_mCr\AppSystemInfoTec_mCr\obj\x86\Debug\AppSystemInfoTec_mCr.xml
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_mCr\AppSystemInfoTec_mCr\obj\x86\Debug\AppSystemInfoTec_mCr.pdb
