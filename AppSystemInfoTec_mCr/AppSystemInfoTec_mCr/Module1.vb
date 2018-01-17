@@ -1,8 +1,8 @@
 ﻿Module Module1
 
     Sub Main()
-        Console.WriteLine("Hola mundo")
-        Console.ReadKey()
+        Console.WriteLine("Soy Mercar")
+        Console.ReadKey("Linea editada")
 
 
     End Sub
